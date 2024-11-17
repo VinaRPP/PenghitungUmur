@@ -1,5 +1,5 @@
 # PenghitungUmur
-# Vina Ramadhanti Putri Pratiwi-2410010559-5ANRBJM-Latihan2PenghitungUmur
+# Vina Ramadhanti Putri Pratiwi-2410010559-5ANRBJM-Latihan2AplikasiPenghitungUmur
 
 
 Deskripsi Program:
